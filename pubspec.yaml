@@ -1,0 +1,33 @@
+name: newproject
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.3
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/icon.png"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^5.1.0
+  firebase_auth: ^7.0.1
+  cloud_firestore: ^7.1.0
+  firebase_storage: ^14.0.1
+  intl: ^0.20.3
+  excel: ^4.0.6
+  share_plus: ^13.3.1
+  cross_file: ^0.3.5+5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387746104148",
+    "project_id": "outflow-record",
+    "storage_bucket": "outflow-record.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387746104148:android:1041efd7f53d23d4a77ec1",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFe8yT8PqjSwOuZRJey__Vn-yaAlQcodQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387746104148:android:45ed8688c149ea7aa77ec1",
+        "android_client_info": {
+          "package_name": "com.namerak.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFe8yT8PqjSwOuZRJey__Vn-yaAlQcodQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
